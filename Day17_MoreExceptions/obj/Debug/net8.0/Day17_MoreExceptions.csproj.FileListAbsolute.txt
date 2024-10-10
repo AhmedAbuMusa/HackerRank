@@ -1,0 +1,14 @@
+D:\Code\HackerRank\Day17_MoreExceptions\bin\Debug\net8.0\Day17_MoreExceptions.exe
+D:\Code\HackerRank\Day17_MoreExceptions\bin\Debug\net8.0\Day17_MoreExceptions.deps.json
+D:\Code\HackerRank\Day17_MoreExceptions\bin\Debug\net8.0\Day17_MoreExceptions.runtimeconfig.json
+D:\Code\HackerRank\Day17_MoreExceptions\bin\Debug\net8.0\Day17_MoreExceptions.dll
+D:\Code\HackerRank\Day17_MoreExceptions\bin\Debug\net8.0\Day17_MoreExceptions.pdb
+D:\Code\HackerRank\Day17_MoreExceptions\obj\Debug\net8.0\Day17_MoreExceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\HackerRank\Day17_MoreExceptions\obj\Debug\net8.0\Day17_MoreExceptions.AssemblyInfoInputs.cache
+D:\Code\HackerRank\Day17_MoreExceptions\obj\Debug\net8.0\Day17_MoreExceptions.AssemblyInfo.cs
+D:\Code\HackerRank\Day17_MoreExceptions\obj\Debug\net8.0\Day17_MoreExceptions.csproj.CoreCompileInputs.cache
+D:\Code\HackerRank\Day17_MoreExceptions\obj\Debug\net8.0\Day17_MoreExceptions.dll
+D:\Code\HackerRank\Day17_MoreExceptions\obj\Debug\net8.0\refint\Day17_MoreExceptions.dll
+D:\Code\HackerRank\Day17_MoreExceptions\obj\Debug\net8.0\Day17_MoreExceptions.pdb
+D:\Code\HackerRank\Day17_MoreExceptions\obj\Debug\net8.0\Day17_MoreExceptions.genruntimeconfig.cache
+D:\Code\HackerRank\Day17_MoreExceptions\obj\Debug\net8.0\ref\Day17_MoreExceptions.dll
